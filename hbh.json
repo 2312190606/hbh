@@ -2,22 +2,50 @@
   {
     "work_name": "《春山红树图》",
     "creation_year": null,
-    "creation_details": "晚年风格“黑宾虹”",
-    "dimensions": "87.9 × 31.7 cm",
+    "dimensions": "87.9x31.7 cm",
     "medium": "纸本设色",
-    "collecting_institution": "浙江省博物馆",
-    "location": "浙江省杭州市",
     "description": "作品采用青绿山水技法，以石青、石绿与赭石层叠渲染，呈现秋日山林浓郁的色彩层次。通过典型笔墨特征与印章信息，可确认为黄宾虹晚年山水画代表作，体现其“黑密厚重”风格演变特征。画面虽无题跋落款，但技法运用与印章信息构成明确艺术标识。"
   },
   {
     "work_name": "《青山古寺图》",
     "creation_year": 1947,
-    "creation_details": "晚年风格“黑宾虹”",
-    "dimensions": "86.5×37.5 cm",
+    "dimensions": "86.5x37.5 cm",
     "medium": "纸本设色",
-    "collecting_institution": null,
-    "location": null,
     "description": "整体来看，是幅用积墨法画成，为黄宾虹晚年成熟风格“黑宾虹”之典型面目，且下笔时有精品、逸品意识，尤为难得。"
   },
-  
+  {
+    "work_name": "《勾漏山图》",
+    "creation_year": null,
+    "dimensions": "87.8x31.5 cm",
+    "medium": "纸本设色",
+    "description": "作品描绘广西北流勾漏山全景，采用"一河两岸"式构图：近景丘陵起伏、林木葱茏间点缀房舍高士；中景江水蜿蜒；远景以淡墨推远叠嶂青山。"
+  },
+  {
+    "work_name": "《夏花图》",
+    "creation_year": 1945,
+    "dimensions": "100.4x39.8 cm",
+    "medium": "纸本设色",
+    "description": null
+  },
+  {
+    "work_name": "《牡丹海棠》",
+    "creation_year": null,
+    "dimensions": "133.8x50.6 cm",
+    "medium": "纸本设色",
+    "description": null
+  },
+  {
+    "work_name": "《紫藤绣球》",
+    "creation_year": null,
+    "dimensions": "139.9x48.3 cm",
+    "medium": "纸本设色",
+    "description": null
+  },
+  {
+    "work_name": "《春花》",
+    "creation_year": null,
+    "dimensions": "72.7x30.4 cm",
+    "medium": "纸本设色",
+    "description": null
+  }
 ]
